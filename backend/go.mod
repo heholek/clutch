@@ -21,7 +21,6 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/uuid v1.1.2
-	github.com/googleapis/gnostic v0.4.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.1
 	github.com/grpc-ecosystem/grpc-gateway v1.14.7
 	github.com/iancoleman/strcase v0.1.1
@@ -45,8 +44,7 @@ require (
 	google.golang.org/grpc v1.31.1
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
-	k8s.io/api v0.17.0
-	k8s.io/apimachinery v0.17.0
-	k8s.io/client-go v0.17.0
-	k8s.io/utils v0.0.0-20200603063816-c1c6865ac451 // indirect
+	k8s.io/api v0.19.0
+	k8s.io/apimachinery v0.19.0
+	k8s.io/client-go v0.19.0
 )
